@@ -1,0 +1,47 @@
+*
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+</style>
+
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;}
+body
+{
+	background-image: url(../img/fondo.jpg) ;
+}
+.logo1{
+float: right;
+top: auto;
+}
+
+{
+	border-image: url(../img/logo.png);
+	
+}
+#contenedor{
+
+	width: 400px
+	margin-left: auto;
+	padding: 32px;
+	margin: 32px;
+	border-style:solid ;
+	border-color:#000000 ;
+	border-radius:25px ;
+	background-color: #CD0000;
+}
+
+#contenedor2{
+	margin-top: auto;
+	margin-right: auto;
+	width: 20px
+	border-radius:25px ;
+}
+
+.caja{
+right: auto;
+float: right;
+
+
+}
